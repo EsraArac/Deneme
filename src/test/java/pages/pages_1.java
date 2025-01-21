@@ -5,5 +5,6 @@ public class pages_1 {
         System.out.println("deneme esra");
 
         System.out.println("deneme 2");
+        System.out.println("deneme 4");
     }
 }
